@@ -1,0 +1,6 @@
+@CountryGwpService_HostAddress = http://localhost:9091/
+
+GET {{CountryGwpService_HostAddress}}/swagger/
+Accept: application/json
+
+###
